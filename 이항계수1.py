@@ -16,3 +16,6 @@ n,k = map(int,input().split())
 
 a = BinomialCoefficient(n,k)
 print(a.get())
+"""
+boj_problem=11050
+"""
